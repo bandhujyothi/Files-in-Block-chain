@@ -1,2 +1,3 @@
-# Files-in-Block-chain
-In this i had stored files in block chain  by  using hashing algorithms , these files are immutable.
+# Filestorage
+A basic Decentralized application to store file on blockchian
+NodeMoudles folder is not given due to its size. You can install dependencies while running on your machine.
